@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617455865927",
+    "project_id": "bigdipper-85261",
+    "storage_bucket": "bigdipper-85261.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617455865927:android:353eb684de726b766fa162",
+        "android_client_info": {
+          "package_name": "com.example.bigdipper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617455865927-pgl1d1f4jj9j2agpdtt1neo1ujcubm3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALtqp76GNORZUyb7pTZxr-HXRpiIa9zN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617455865927-pgl1d1f4jj9j2agpdtt1neo1ujcubm3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
